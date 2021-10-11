@@ -1,0 +1,13 @@
+Aprendizado no primeiro módulo:
+
+Foram estudados os cods git: 
+git init - que inicia a criação no diretorio ou reinicia esta configuração;
+git status - mostra a situação dos arquivos do diretorio;
+git log - retorna as informações das versões comitadas e as mensagens gravadas.
+git diff - mostra as alterações realizadas nos arquivos;
+git add -> adiciona os arquivos ao repositorio - pode ser por arquivo ou todos (utilizando ".")
+git ignore -> arquivo que identifica os arquivos que serão ignorados no versionamento.
+git commit - comita as alterações realizadas nos arquivos do repositorio; -m -> utilizado para definir a mensagem 
+git tag - adicionar uma tag - geralmente aquilo que identifica a versão. -a -> adiiciona
+git push - enviar os arquivos para a nuvem.
+master ou brush - pode ser enviado para o repositorio principal ou para um específico.
